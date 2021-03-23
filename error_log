@@ -1,0 +1,23 @@
+[06-Jan-2021 10:33:16 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:18 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:21 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:26 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:31 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:32 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:33 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:34 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:34 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:35 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:33:35 UTC] PHP Parse error:  syntax error, unexpected '/' in /home3/usedfetishco/public_html/language/EN/messages.inc.php on line 2062
+[06-Jan-2021 10:52:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/usedfetishco/public_html/includes/template/Template.php(163) : eval()'d code on line 339
+[06-Jan-2021 10:52:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/usedfetishco/public_html/cache/tpl_default_item.tpl.php on line 339
+[06-Jan-2021 10:53:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/usedfetishco/public_html/includes/template/Template.php(163) : eval()'d code on line 339
+[06-Jan-2021 10:53:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home3/usedfetishco/public_html/cache/tpl_default_item.tpl.php on line 339
+[02-Mar-2021 13:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/creativeblades/public_html/includes/database/DatabasePDO.php:53
+Stack trace:
+#0 /home3/creativeblades/public_html/includes/functions_global.php(62): DatabasePDO->direct_query('SELECT * FROM w...')
+#1 /home3/creativeblades/public_html/includes/functions_global.php(28): global_class->loadsettings()
+#2 /home3/creativeblades/public_html/common.php(65): global_class->__construct()
+#3 /home3/creativeblades/public_html/index.php(15): include('/home3/creative...')
+#4 {main}
+  thrown in /home3/creativeblades/public_html/includes/database/DatabasePDO.php on line 53
